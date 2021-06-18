@@ -26,7 +26,9 @@ public class ResourcePackStatus implements Listener {
             Player p = event.getPlayer();
             if(plugin.getConfig().getBoolean("kick_if_declined") == true) {
             p.kickPlayer(Utils.chat(plugin.getConfig().getString("kick_msg")));
+		   return;
             }
+		return;
         }
     }
 	
