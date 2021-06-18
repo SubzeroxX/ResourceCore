@@ -1,0 +1,5 @@
+name: ResourceCore
+version: 1.0
+author: Reigniteh
+main: club.reigniteh.listeners.Main
+description: Basic server-side resource pack tool
