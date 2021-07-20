@@ -1,4 +1,4 @@
-# ResourceCore-1.17
+# ResourceCore
 Force resource packs to players and kick them if they don't accept the textures of the server.
 
 # Config.yml
